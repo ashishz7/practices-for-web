@@ -1,0 +1,135 @@
+/* 
+==========================================================================================================================================
+                                                start image section
+==========================================================================================================================================
+*/
+section#content{
+    color: white;
+    position: absolute;
+    /* z-index: 101; */
+    top: 400px;
+    left:600px
+}
+img#slide{
+    width: 100%;
+    height: auto;
+    /* position: relative;
+     */
+    /* z-index: 100; */
+}
+button{
+    width: 50%;
+    height: 50px;
+    background-color: #172035;
+    color: white;
+    font-size: 2em;
+    border: none;
+}
+button:hover{
+    background: #09568d;
+}
+
+h1{
+    font-size: 4em;
+}
+h3{
+    font-size: 2em;
+}
+p{
+    font-size: 2em;
+}
+/* 
+=========================================================================================================================================
+                                                end image section
+=========================================================================================================================================
+*/
+
+
+
+
+/* 
+==========================================================================================================================================
+                                                start feature courses
+==========================================================================================================================================
+*/
+
+section#courses{
+    margin: auto 9%;
+}
+
+
+div.course{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid transparent;
+    float: left;
+    margin-right: 5px;
+}
+
+section#about{
+    width: 100%;
+    height: 509px;
+    background: #252525;
+    position: absolute;
+    top:1800;
+    left:0;
+}
+
+.clearfix{
+    clear: both;
+
+}
+#about{color: white;
+    text-align: center;
+
+}
+
+#aboutss{
+    margin-left: 9%;
+}
+
+div.abouts{
+    width: 300px;
+    height: 200px;
+    margin-right: 5px;
+    background: black;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: fixed;
+    bottom: 0%;
+
+  
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+=========================================================================================================================================
+                                                end feature courses
+=========================================================================================================================================
+*/
